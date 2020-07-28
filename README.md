@@ -12,10 +12,23 @@ JavaScript also has several built-in objects such as String, Number, Math, and D
 
 
 
-Evaluating Conditions & Conditional Statements
+**Evaluating Conditions & Conditional Statements**
 
 
 
 There are  two components to a decision. The first one is an expression evaluated, which returns a value. The second is a condition statement says what to do in given situation.
 
 
+**Comparison Operators**
+
+
+
+Evaluating Conditions by a situation by comparing one value in the script to what you expect it might be.  Example: ‘Hello’== ‘Goodbye’ returns to false because they’re not the same thing.
+
+
+
+**SWITCH STATEMENTS**
+
+
+
+A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
